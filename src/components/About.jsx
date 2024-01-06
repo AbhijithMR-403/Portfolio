@@ -11,20 +11,27 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Rohima Akther everyone calls me Amrin. I am a
-            Frontend Developer. I build beautifull websites with React and
-            Tailwind CSS.
+            Hi, My Name Is Abhijith everyone calls me luttapi😁. I am a
+            Full stack Developer(Django)🤖. I build this beautifull websites with React and
+            Tailwind CSS.❄️
+            
           </p>
           <p className="pb-5">
-            I am proficient in Frontend skills like React.js, Redux, Redux Tool
-            Kit, Axios, Tailwind CSS, SaSS, Css3 and many more.
+            I am proficient in Backend skills like Python, Django, Postgresql, Mongodb, Git, REST API and many more.
           </p>
 
-          <p>In backend I know Node.js, Express.js, MongoDB, and Mongoose</p>
-
           <p>
-            In my spare time I create YouTube videos and write blogs on my Blog.
-            Where I talk about programming theory and build various projects.
+            In Frontend I know React.js, Redux,
+            Axios, Tailwind CSS, chakra UI.....
+
+          </p>
+          <br />
+          <p>
+          I began coding in 9th grade (2018) while still in school🏫. Later on when I was in my 11th I got my first PC💻, from that day onwards I started exploring this IT field🧑‍💻. Saying about my education I was having a lot of options after my higher education either I could choose a college and spend my 4 years there, but I found it too common.
+            So I thought of self learning💡. However, technical skills alone are not sufficient for a good programmer. Effective communication💬, building strong connections with people🫂, and having a well-defined roadmap🗺️ are equally crucial so for that I join Brocamp.
+          <br />
+            {/* In my spare time I use to play chess, learn about some programming concept or some myterious sci-fi things.
+            Where I talk about programming theory and build various projects. */}
           </p>
         </div>
 

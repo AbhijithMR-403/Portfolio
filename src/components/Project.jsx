@@ -8,18 +8,18 @@ const Projects = () => {
     const projects = [
         {
         //   img: cssProjects,
-          title: "css projects",
-          desc: "Frontend Mentor challange directory, solved with vanilla CSS",
-          live: "",
-          code: "",
+          title: "Lunar Edge",
+          desc: "E-commerce website using Django",
+          live: "https://github.com/AbhijithMR-403/lunar_Edge",
+          code: "https://github.com/AbhijithMR-403/lunar_Edge",
         },
-        {
-        //   img: getInspirred,
-          title: "get Inspirred",
-          desc: "Quote search app. Used Quotable API for the quotes and React, Redux on the frontend",
-          live: "",
-          code: "",
-        },
+        // {
+        // //   img: getInspirred,
+        //   title: "get Inspirred",
+        //   desc: "Quote search app. Used Quotable API for the quotes and React, Redux on the frontend",
+        //   live: "",
+        //   code: "",
+        // },
       ]; 
 
   return (
