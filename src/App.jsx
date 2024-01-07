@@ -3,7 +3,7 @@ import Contact from "./components/Contact.jsx";
 import Header from "./components/Header.jsx";
 import Hero from "./components/Hero.jsx";
 import Projects from "./components/Project.jsx";
-import About from "./components/about.jsx";
+import About from "./components/About.jsx";
 
 
 
