@@ -1,10 +1,10 @@
 import React from "react";
 import HeroImg from "../assets/image/coding2.gif";
-
+import { SiLeetcode, SiHackerrank  } from "react-icons/si";
 import {
   AiOutlineInstagram,
   AiOutlineLinkedin,
-  AiOutlineGithub,
+  AiOutlineGithub
 } from "react-icons/ai";
 
 const Hero = () => {
@@ -42,6 +42,20 @@ const Hero = () => {
             >
               {" "}
               <AiOutlineGithub size={40} />{" "}
+            </a>
+            <a
+              href="https://www.hackerrank.com/profile/abhijithmr581"
+              className="pr-4 inline-block text-accent hover:text-white"
+            >
+              {" "}
+              <SiHackerrank  size={40} />{" "}
+            </a>
+            <a
+              href="https://leetcode.com/abhijithmr581/"
+              className="pr-4 inline-block text-accent hover:text-white"
+            >
+              {" "}
+              <SiLeetcode size={40} />{" "}
             </a>
           </div>
 
