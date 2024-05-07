@@ -18,7 +18,7 @@ const Hero = () => {
           </h1>
 
           <p className="py-5">
-            I am proficient in Django, React.js and Tailwind CSS
+            I am proficient in Django and React.js. 
           </p>
 
           <div className="flex py-5 ">

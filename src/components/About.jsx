@@ -27,8 +27,8 @@ const About = () => {
           </p>
           <br />
           <p>
-          I began coding in 9th grade (2018) while still in school🏫. Later on when I was in my 11th I got my first PC💻, from that day onwards I started exploring this IT field🧑‍💻. Saying about my education I was having a lot of options after my higher education either I could choose a college and spend my 4 years there, but I found it too common.
-            So I thought of self learning💡. However, technical skills alone are not sufficient for a good programmer. Effective communication💬, building strong connections with people🫂, and having a well-defined roadmap🗺️ are equally crucial so for that I join Brocamp.
+          I began coding in 9th grade (2018) while still in school🏫. Later on when I was in my 11th I got my first PC💻, from that day onwards I started exploring this IT field🧑‍💻. After my higher education either I could choose a college and spend my 4 years there, but I found it too common.
+            So I thought of self learning💡. However, technical skills alone are not sufficient for a good programmer. Effective communication💬, building strong connections with people🫂, and having a well-defined roadmap🗺️ are equally crucial, for all these I join bootcamp called Brocamp.
           <br />
             {/* In my spare time I use to play chess, learn about some programming concept or some myterious sci-fi things.
             Where I talk about programming theory and build various projects. */}

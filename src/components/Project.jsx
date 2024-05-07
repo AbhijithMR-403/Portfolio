@@ -13,13 +13,13 @@ const Projects = () => {
           live: "https://github.com/AbhijithMR-403/lunar_Edge",
           code: "https://github.com/AbhijithMR-403/lunar_Edge",
         },
-        // {
-        // //   img: getInspirred,
-        //   title: "get Inspirred",
-        //   desc: "Quote search app. Used Quotable API for the quotes and React, Redux on the frontend",
-        //   live: "",
-        //   code: "",
-        // },
+        {
+        //   img: getInspirred,
+          title: "Navi-Go",
+          desc: "Bus Booking",
+          live: "https://github.com/AbhijithMR-403/navigo",
+          code: "https://github.com/AbhijithMR-403/navigo",
+        },
       ]; 
 
   return (
@@ -31,7 +31,7 @@ const Projects = () => {
           </h2>
 
           <p className="pb-5">
-            These are some of my best projects. I have built these with Django.
+            These are some of my best projects:
           </p>
         </div>
 
