@@ -11,28 +11,28 @@ const About = () => {
           </h2>
 
           <p className="pb-5">
-            Hi, My Name Is Abhijith everyone calls me luttapi😁. I am a
-            Full stack Developer(Django)🤖. I build this beautifull websites with React and
-            Tailwind CSS.❄️
-            
-          </p>
-          <p className="pb-5">
-            I am proficient in Backend skills like Python, Django, Postgresql, Mongodb, Git, REST API and many more.
-          </p>
+  Hi, I'm Abhijith—most people call me Luttapi. I'm a Full Stack Developer with a focus on Python and Django on the backend, and React with Tailwind CSS on the frontend.
+</p>
 
-          <p>
-            In Frontend I know React.js, Redux,
-            Axios, Tailwind CSS, chakra UI.....
+<p className="pb-5">
+  My backend expertise includes Python, Django, PostgreSQL, MongoDB, Git, and building RESTful APIs. 
+</p>
+<p className="pb-5">
+  I also have experience working with cloud platforms like AWS and DigitalOcean, using services such as EC2, S3, Lambda, and API Gateway to deploy and scale applications efficiently.
+</p>
 
-          </p>
-          <br />
-          <p>
-          I began coding in 9th grade (2018) while still in school🏫. Later on when I was in my 11th I got my first PC💻, from that day onwards I started exploring this IT field🧑‍💻. After my higher education either I could choose a college and spend my 4 years there, but I found it too common.
-            So I thought of self learning💡. However, technical skills alone are not sufficient for a good programmer. Effective communication💬, building strong connections with people🫂, and having a well-defined roadmap🗺️ are equally crucial, for all these I join bootcamp called Brocamp.
-          <br />
-            {/* In my spare time I use to play chess, learn about some programming concept or some myterious sci-fi things.
-            Where I talk about programming theory and build various projects. */}
-          </p>
+<p className="pb-5">
+  On the frontend, I work with React.js, Redux, Axios, Tailwind CSS, and Chakra UI.
+</p>
+
+<p className="pb-5">
+  I started coding back in 2018 during school. In 11th grade, after getting my first PC, I began diving deeper into development. Instead of following the traditional college route, I chose self-learning. To sharpen both my technical and soft skills, I joined a bootcamp called Brocamp, which helped shape my journey in the IT field.
+</p>
+
+<p>
+  Currently, I have 7 months of hands-on industry experience working at Crisco Consulting as a Python Developer, where I contributed to building scalable backend systems and APIs.
+</p>
+
         </div>
 
         <div className="about-img">
